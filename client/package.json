@@ -17,7 +17,7 @@
     "feathers-hooks-common": "^4.20.7",
     "feathers-vuex": "^2.0.4",
     "material-design-icons-iconfont": "^5.0.1",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "register-service-worker": "^1.6.2",
     "roboto-fontface": "*",
